@@ -18,7 +18,7 @@
     "js-md5": "^0.7.3",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
-    "qs": "^6.7.0",
+    "qs": "^6.8.3",
     "screenfull": "^4.0.1",
     "sortablejs": "^1.10.0-rc3",
     "v-distpicker": "^1.2.2",
